@@ -1,1 +1,1 @@
-# Logistic-Regression-of-Diabetes
+# Logistic-Regression-Project Implementation 
